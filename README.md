@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/MRCRAZY19/HALF-BOT_V1">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+HALF%20+%20BOT+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+MR%20+%20JOHAN+..."
             alt="Typing SVG"
         />
     </a>
